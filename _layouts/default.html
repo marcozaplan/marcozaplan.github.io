@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} &middot; {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ page.description | default: site.description | strip_newlines }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  {%- feed_meta -%}
+  {%- seo -%}
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <div class="shell">
+    <header class="rail">
+      <a class="wordmark" href="{{ '/' | relative_url }}">
+        <span class="wordmark-name">Marco Zaplan</span>
+        <span class="wordmark-role">{{ site.tagline }}</span>
+      </a>
+
+      <nav aria-label="Sections">
+        <ul class="nav">
+          {%- assign pages = "/,Home|/about/,About|/portfolio/,Portfolio|/research/,Research|/blog/,Writing|/contact/,Contact" | split: "|" -%}
+          {%- for item in pages -%}
+            {%- assign bits = item | split: "," -%}
+            {%- assign href = bits[0] -%}
+            <li>
+              <a href="{{ href | relative_url }}"
+                 {% if page.url == href or page.nav == bits[1] %}aria-current="page"{% endif %}>{{ bits[1] }}</a>
+            </li>
+          {%- endfor -%}
+        </ul>
+      </nav>
+
+      <ul class="rail-links">
+        {%- for link in site.links -%}
+        <li><a href="{{ link.url }}">{{ link.name }}</a></li>
+        {%- endfor -%}
+      </ul>
+    </header>
+
+    <main id="main" class="content">
+      {{ content }}
+      <footer class="foot">
+        <hr class="strata" aria-hidden="true">
+        <p>&copy; {{ site.time | date: "%Y" }} Marco Zaplan. Built with Jekyll, hosted on GitHub Pages.</p>
+      </footer>
+    </main>
+  </div>
+</body>
+</html>

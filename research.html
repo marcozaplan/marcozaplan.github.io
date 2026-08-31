@@ -1,0 +1,67 @@
+---
+layout: default
+title: Research
+nav: Research
+permalink: /research/
+description: Papers, preprints, and ongoing research on political demography, extractives, and Philippine politics.
+---
+
+<h1>Research</h1>
+
+<p class="standfirst">
+  Published papers, preprints, and work in progress. My standing interests are
+  political demography, subnational democracy, polarization measurement, and
+  the spatial economics of resource-dependent places.
+</p>
+
+{%- assign all_tags = "" -%}
+{%- for r in site.data.research -%}
+  {%- assign all_tags = all_tags | append: " " | append: r.tags -%}
+{%- endfor -%}
+{%- assign tag_list = all_tags | split: " " | uniq | sort -%}
+
+<div data-filter-root>
+
+  <div class="filters">
+    <label>Topic</label>
+    <button class="chip" data-tag="all" aria-pressed="true">All</button>
+    {%- for t in tag_list -%}
+      {%- if t != "" -%}
+      <button class="chip" data-tag="{{ t }}" aria-pressed="false">{{ t | replace: "-", " " }}</button>
+      {%- endif -%}
+    {%- endfor -%}
+    <input class="search" type="search" placeholder="Search research" aria-label="Search research">
+  </div>
+
+  <p class="count"><b data-count>0</b> of {{ site.data.research | size }} outputs</p>
+
+  <ul class="records">
+    {%- assign outputs = site.data.research | sort: "year" | reverse -%}
+    {%- for r in outputs -%}
+    <li class="record"
+        data-tags="{{ r.tags }}"
+        data-text="{{ r.title }} {{ r.venue }} {{ r.status }} {{ r.summary }} {{ r.tags }} {{ r.year }}">
+      <div class="record-year">{{ r.year }}</div>
+      <div>
+        <h2 class="record-title">
+          {%- if r.link and r.link != "" -%}
+            <a href="{{ r.link }}">{{ r.title }}</a>
+          {%- else -%}
+            {{ r.title }}
+          {%- endif -%}
+        </h2>
+        <p class="record-org">{{ r.status }} — {{ r.venue }}</p>
+        <p class="record-summary">{{ r.summary }}</p>
+        <p class="record-tags">
+          {%- assign rtags = r.tags | split: " " -%}
+          {%- for t in rtags -%}<span>{{ t | replace: "-", " " }}</span>{%- endfor -%}
+        </p>
+      </div>
+    </li>
+    {%- endfor -%}
+  </ul>
+
+  <p class="empty" data-empty hidden>Nothing matches that filter. Clear the search or choose All.</p>
+</div>
+
+<script src="{{ '/assets/js/filter.js' | relative_url }}" defer></script>

@@ -1,0 +1,16 @@
+---
+layout: default
+nav: Writing
+---
+
+<article class="post">
+  <p class="backlink"><a href="{{ '/blog/' | relative_url }}">All writing</a></p>
+  <h1>{{ page.title }}</h1>
+  <p class="post-meta">
+    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time>
+    {%- if page.tags and page.tags.size > 0 %} &mdash; {{ page.tags | join: ", " }}{% endif -%}
+  </p>
+  <hr class="strata" aria-hidden="true">
+
+  {{ content }}
+</article>

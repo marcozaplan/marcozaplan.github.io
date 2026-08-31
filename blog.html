@@ -1,0 +1,30 @@
+---
+layout: default
+title: Writing
+nav: Writing
+permalink: /blog/
+description: Notes on natural resource governance, open data, and reading numbers well.
+---
+
+<h1>Writing</h1>
+
+<p class="standfirst">
+  Notes on resource governance, open data, and reading numbers carefully.
+  <a href="{{ '/feed.xml' | relative_url }}">Subscribe by RSS.</a>
+</p>
+
+{%- if site.posts.size > 0 -%}
+<ul class="entries">
+  {%- for post in site.posts -%}
+  <li class="entry">
+    <div class="entry-date">{{ post.date | date: "%b %Y" }}</div>
+    <div>
+      <h2 class="entry-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      <p class="entry-excerpt">{{ post.description | default: post.excerpt | strip_html | truncate: 180 }}</p>
+    </div>
+  </li>
+  {%- endfor -%}
+</ul>
+{%- else -%}
+<p class="empty">Nothing published yet. Add a Markdown file to <code>_posts/</code> to start.</p>
+{%- endif -%}

@@ -1,0 +1,67 @@
+---
+layout: default
+title: Portfolio
+nav: Portfolio
+permalink: /portfolio/
+description: A searchable record of consulting and analytical projects.
+---
+
+<h1>Portfolio</h1>
+
+<p class="standfirst">
+  A record of consulting and analytical work. Filter by theme, or search by
+  client, method, or country.
+</p>
+
+{%- comment -%} Build the unique tag list from the data file {%- endcomment -%}
+{%- assign all_tags = "" -%}
+{%- for p in site.data.projects -%}
+  {%- assign all_tags = all_tags | append: " " | append: p.tags -%}
+{%- endfor -%}
+{%- assign tag_list = all_tags | split: " " | uniq | sort -%}
+
+<div data-filter-root>
+
+  <div class="filters">
+    <label id="theme-label">Theme</label>
+    <button class="chip" data-tag="all" aria-pressed="true">All</button>
+    {%- for t in tag_list -%}
+      {%- if t != "" -%}
+      <button class="chip" data-tag="{{ t }}" aria-pressed="false">{{ t | replace: "-", " " }}</button>
+      {%- endif -%}
+    {%- endfor -%}
+    <input class="search" type="search" placeholder="Search projects" aria-label="Search projects">
+  </div>
+
+  <p class="count"><b data-count>0</b> of {{ site.data.projects | size }} projects</p>
+
+  <ul class="records">
+    {%- assign projects = site.data.projects | sort: "year" | reverse -%}
+    {%- for p in projects -%}
+    <li class="record"
+        data-tags="{{ p.tags }}"
+        data-text="{{ p.title }} {{ p.org }} {{ p.role }} {{ p.summary }} {{ p.tags }} {{ p.year }}">
+      <div class="record-year">{{ p.year }}</div>
+      <div>
+        <h2 class="record-title">
+          {%- if p.link and p.link != "" -%}
+            <a href="{{ p.link }}">{{ p.title }}</a>
+          {%- else -%}
+            {{ p.title }}
+          {%- endif -%}
+        </h2>
+        <p class="record-org">{{ p.org }}{% if p.role and p.role != "" %} — {{ p.role }}{% endif %}</p>
+        <p class="record-summary">{{ p.summary }}</p>
+        <p class="record-tags">
+          {%- assign ptags = p.tags | split: " " -%}
+          {%- for t in ptags -%}<span>{{ t | replace: "-", " " }}</span>{%- endfor -%}
+        </p>
+      </div>
+    </li>
+    {%- endfor -%}
+  </ul>
+
+  <p class="empty" data-empty hidden>No projects match that filter. Clear the search or choose All.</p>
+</div>
+
+<script src="{{ '/assets/js/filter.js' | relative_url }}" defer></script>

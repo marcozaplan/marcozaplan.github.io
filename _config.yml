@@ -1,0 +1,43 @@
+title: Marco Zaplan
+tagline: Natural resource governance, public finance, and data
+description: >-
+  Independent consulting and research on natural resource governance,
+  open data, and public financial management.
+author: Marco Zaplan
+email: hello@example.com
+
+# Repo is marcozaplan/marcozaplan.github.io, a user site, so it serves at
+# the domain root and baseurl stays empty. Only change baseurl if you move
+# this into a project repo (then it becomes "/that-repo-name").
+url: "https://marcozaplan.github.io"
+baseurl: ""
+
+# Where you exist elsewhere. Delete any you don't want shown.
+links:
+  - name: Email
+    url: "mailto:hello@example.com"
+  - name: LinkedIn
+    url: "https://www.linkedin.com/in/marcozaplan"
+  - name: GitHub
+    url: "https://github.com/marcozaplan"
+  # - name: Google Scholar
+  #   url: "PASTE YOUR SCHOLAR PROFILE URL"
+
+permalink: /blog/:year/:month/:title/
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post

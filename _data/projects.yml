@@ -1,0 +1,71 @@
+# The portfolio database. One entry per project.
+# Fields: title, org, role, year, summary, tags (lowercase, space-free), link (optional)
+# Tags drive the filter buttons on /portfolio/ — keep them consistent.
+# Everything below is seeded from your own record. Edit freely; delete what
+# you'd rather not publish.
+
+- title: Mining licensing across seven countries
+  org: Natural Resource Governance Institute
+  role: Lead analyst
+  year: 2026
+  summary: >-
+    Comparative analysis of mining licence award data, testing whether
+    licensing decisions cluster around election periods. Includes a
+    machine-readable data dictionary and Frictionless schema for a
+    licence-tracking database, with validation tooling.
+  tags: extractives data-infrastructure governance
+  link: ""
+
+- title: Real-time mining activity nowcaster, Rio Tuba
+  org: Independent
+  role: Researcher and developer
+  year: 2026
+  summary: >-
+    Satellite nighttime-lights pipeline (VIIRS) that estimates mining
+    activity at a single Palawan site at near-real-time cadence — the first
+    monitor of its kind in Southeast Asia.
+  tags: extractives geospatial monitoring
+  link: ""
+
+- title: Tool on Trade Gap Analysis
+  org: Independent
+  role: Methodology and build
+  year: 2025
+  summary: >-
+    Mirror-trade methodology and tooling for detecting misinvoicing in
+    critical mineral exports, comparing partner-country customs records to
+    surface value gaps.
+  tags: extractives public-finance methodology
+  link: ""
+
+- title: Provincial economic influence index
+  org: Independent
+  role: Principal investigator
+  year: 2025
+  summary: >-
+    A spatial-economic index for Philippine provinces combining nighttime
+    lights with fiscal and demographic data to measure economic weight
+    below the national level.
+  tags: geospatial public-finance philippines
+  link: ""
+
+- title: EITI contracts transparency portal
+  org: Extractives sector programme
+  role: Data lead
+  year: 2023
+  summary: >-
+    Design and delivery of a public contracts portal for extractive
+    industries disclosure, covering data modelling, publication workflow,
+    and user-facing search.
+  tags: extractives open-data governance
+  link: ""
+
+- title: Public financial management advisory
+  org: Asian Development Bank
+  role: Consultant
+  year: 2022
+  summary: >-
+    Diagnostic and advisory work on public financial management systems,
+    contributing to country-level reform programming.
+  tags: public-finance governance
+  link: ""
