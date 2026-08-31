@@ -3,11 +3,7 @@
    --------------------------------------------------------------- */
 
 :root {
-<<<<<<< HEAD
   --paper:     #f6f7f5;
-=======
-  --paper:     #ffffff;
->>>>>>> 57353701dcc997b64cbcd6450ab08b6d4f90481a
   --paper-sun: #eceeea;
   --ink:       #15201c;
   --ink-soft:  #55635d;
@@ -464,7 +460,6 @@ hr.strata {
   font-size: .8125rem;
   color: var(--ink-soft);
 }
-<<<<<<< HEAD
 
 /* --- Hero photo -------------------------------------------- */
 
@@ -534,5 +529,3 @@ hr.strata {
     opacity: 1;
   }
 }
-=======
->>>>>>> 57353701dcc997b64cbcd6450ab08b6d4f90481a
