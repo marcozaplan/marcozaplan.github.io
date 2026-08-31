@@ -1,0 +1,89 @@
+# Organisation logos shown on the home page.
+# file: filename inside assets/images/logos/ (e.g. adb.png)
+# name: full organisation name used as alt text
+# url:  optional — links the logo to the org's website. Leave "" to skip.
+# Copy your logo files into assets/images/logos/ then add or remove entries here.
+
+- name: Asian Development Bank
+  file: adb.png
+  url: https://www.adb.org
+
+- name: AGC
+  file: agc.png
+  url: ""
+
+- name: Asian Peoples' Movement on Debt and Development
+  file: apmdd.png
+  url: https://www.apmdd.org
+
+- name: Department of Finance, Philippines
+  file: dof.png
+  url: https://www.dof.gov.ph
+
+- name: Diaries of the Ocean
+  file: diaries-of-the-ocean.png
+  url: ""
+
+- name: ECORYS
+  file: ecorys.png
+  url: https://www.ecorys.com
+
+- name: Extractive Industries Transparency Initiative
+  file: eiti.png
+  url: https://eiti.org
+
+- name: GovData Initiative
+  file: govdata.png
+  url: ""
+
+- name: Legal Rights and Natural Resources Center
+  file: lrc.png
+  url: ""
+
+- name: London School of Economics and Political Science
+  file: lse.png
+  url: ""
+
+- name: Natural Resource Governance Institute
+  file: nrgi.png
+  url: https://resourcegovernance.org
+
+- name: Open Ownership
+  file: open-ownership.png
+  url: https://www.openownership.org
+
+- name: Oxfam
+  file: oxfam.png
+  url: https://www.oxfam.org
+
+- name: People's Television Network
+  file: ptv.png
+  url: ""
+
+- name: Publish What You Pay
+  file: pwyp.png
+  url: https://www.publishwhatyoupay.org
+
+- name: Publish What You Pay Australia
+  file: pwyp-australia.png
+  url: ""
+
+- name: Tara
+  file: tara.png
+  url: ""
+
+- name: UNOPS
+  file: unops.png
+  url: https://www.unops.org
+
+- name: University of the Philippines Center for Integrative and Development Studies
+  file: up-cids.png
+  url: ""
+
+- name: USAID
+  file: usaid.png
+  url: https://www.usaid.gov
+
+- name: The World Bank
+  file: world-bank.png
+  url: https://www.worldbank.org

@@ -1,0 +1,85 @@
+---
+layout: default
+nav: Home
+description: Independent consulting and research on natural resource governance, open data, and public financial management.
+---
+
+<div class="hero">
+  <img
+    src="{{ '/assets/images/hero/hero.jpg' | relative_url }}"
+    alt="Marco Zaplan speaking at an EITI open data event"
+    class="hero-img"
+    width="1200"
+    height="600">
+</div>
+
+<p class="lede">I work on who benefits from natural resources, and whether the public can see it.</p>
+
+<p class="standfirst">
+  A decade across the Asian Development Bank, the Natural Resource Governance
+  Institute, Oxfam, ECORYS, and the Philippine Department of Finance, in more
+  than thirty countries. I take consulting work independently, alongside my
+  data practice at Per Capita Insights.
+</p>
+
+<hr class="strata" aria-hidden="true">
+
+<h2>What I take on</h2>
+
+<dl class="practice">
+  <div>
+    <dt>Extractives governance</dt>
+    <dd>Licensing regimes, beneficial ownership, contract disclosure, and revenue transparency — from diagnostic through to published data.</dd>
+  </div>
+  <div>
+    <dt>Data infrastructure</dt>
+    <dd>Schemas, data dictionaries, validation pipelines, and the unglamorous work that makes a public dataset usable more than once.</dd>
+  </div>
+  <div>
+    <dt>Public financial management</dt>
+    <dd>Revenue analysis, trade-gap and misinvoicing work, and fiscal diagnostics for reform programmes.</dd>
+  </div>
+  <div>
+    <dt>Applied research</dt>
+    <dd>Political demography, spatial economics, and electoral analysis, mostly on the Philippines.</dd>
+  </div>
+</dl>
+
+<hr class="strata" aria-hidden="true">
+
+<h2>Organisations I've worked with</h2>
+
+<ul class="logo-grid" aria-label="Client and partner organisations">
+  {%- for logo in site.data.logos -%}
+  <li>
+    {%- if logo.url and logo.url != "" -%}
+    <a href="{{ logo.url }}" target="_blank" rel="noopener" title="{{ logo.name }}">
+      <img src="{{ '/assets/images/logos/' | append: logo.file | relative_url }}"
+           alt="{{ logo.name }}" loading="lazy">
+    </a>
+    {%- else -%}
+    <img src="{{ '/assets/images/logos/' | append: logo.file | relative_url }}"
+         alt="{{ logo.name }}" loading="lazy">
+    {%- endif -%}
+  </li>
+  {%- endfor -%}
+</ul>
+
+<hr class="strata" aria-hidden="true">
+
+<h2>Recent work</h2>
+
+<ul class="entries">
+  {%- assign recent = site.data.projects | sort: "year" | reverse | slice: 0, 3 -%}
+  {%- for p in recent -%}
+  <li class="entry">
+    <div class="entry-date">{{ p.year }}</div>
+    <div>
+      <p class="entry-title">{{ p.title }}</p>
+      <p class="entry-excerpt">{{ p.org }}</p>
+    </div>
+  </li>
+  {%- endfor -%}
+</ul>
+
+<p style="margin-top:1.25rem"><a href="{{ '/portfolio/' | relative_url }}">See the full portfolio</a></p>

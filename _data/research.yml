@@ -1,0 +1,45 @@
+# The research database. One entry per output.
+# status: Published | Working paper | Preprint | In progress
+# Tags drive the filter on /research/.
+
+- title: "Green, Pink, and Red: affective polarization in the Philippines"
+  venue: MSc dissertation, London School of Economics
+  status: Working paper
+  year: 2026
+  summary: >-
+    Measures affective polarization across Philippine political factions
+    using a spread-of-scores dependent variable, multilevel regression with
+    poststratification, and LASSO-selected covariates. Accompanied by an
+    interactive dashboard and a public explainer.
+  tags: polarization philippines methods
+  link: ""
+
+- title: Barangay-level migration in Surigao del Norte
+  venue: Preprint
+  status: Preprint
+  year: 2026
+  summary: >-
+    Fine-grained estimates of internal migration at the smallest Philippine
+    administrative unit, and what they imply for local population projection.
+  tags: demography philippines
+  link: ""
+
+- title: Book review
+  venue: Philippine Journal of Public Administration
+  status: Published
+  year: 2026
+  summary: >-
+    Review essay on governance and administrative reform.
+  tags: governance philippines
+  link: ""
+
+- title: Subnational democracy indexing
+  venue: Ongoing
+  status: In progress
+  year: 2026
+  summary: >-
+    Constructing a comparative measure of democratic quality at the
+    provincial and municipal level, oriented toward the 2028 Philippine
+    electoral cycle.
+  tags: democracy philippines methods
+  link: ""
