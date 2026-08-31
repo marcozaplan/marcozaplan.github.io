@@ -3,7 +3,11 @@
 # Tags drive the filter on /research/.
 
 - title: "Green, Pink, and Red: affective polarization in the Philippines"
+<<<<<<< HEAD
   venue: MSc dissertation, London School of Economics
+=======
+  venue: MSc dissertation, London School of Economics and Political Science
+>>>>>>> 57353701dcc997b64cbcd6450ab08b6d4f90481a
   status: Working paper
   year: 2026
   summary: >-
@@ -16,7 +20,11 @@
 
 - title: Barangay-level migration in Surigao del Norte
   venue: Preprint
+<<<<<<< HEAD
   status: Preprint
+=======
+  status: UP Population Institute
+>>>>>>> 57353701dcc997b64cbcd6450ab08b6d4f90481a
   year: 2026
   summary: >-
     Fine-grained estimates of internal migration at the smallest Philippine
@@ -34,8 +42,13 @@
   link: ""
 
 - title: Subnational democracy indexing
+<<<<<<< HEAD
   venue: Ongoing
   status: In progress
+=======
+  venue: Per Capita Insights
+  status: Complete
+>>>>>>> 57353701dcc997b64cbcd6450ab08b6d4f90481a
   year: 2026
   summary: >-
     Constructing a comparative measure of democratic quality at the

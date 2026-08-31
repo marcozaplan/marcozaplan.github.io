@@ -4,7 +4,11 @@ description: >-
   Independent consulting and research on natural resource governance,
   open data, and public financial management.
 author: Marco Zaplan
+<<<<<<< HEAD
 email: hello@example.com
+=======
+email: marcozaplan@gmail.com
+>>>>>>> 57353701dcc997b64cbcd6450ab08b6d4f90481a
 
 # Repo is marcozaplan/marcozaplan.github.io, a user site, so it serves at
 # the domain root and baseurl stays empty. Only change baseurl if you move

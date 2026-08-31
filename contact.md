@@ -16,13 +16,18 @@ If you're writing about a possible engagement, it helps to include the question
 you're trying to answer, what data already exists, and your timeline.
 
 <ul class="contact-list">
+<<<<<<< HEAD
   <li><span class="k">Email</span> <a href="mailto:hello@example.com">hello@example.com</a></li>
+=======
+  <li><span class="k">Email</span> <a href="mailto:marcozaplan@gmail.com">marcozaplan@gmail.com</a></li>
+>>>>>>> 57353701dcc997b64cbcd6450ab08b6d4f90481a
   <li><span class="k">LinkedIn</span> <a href="https://www.linkedin.com/in/marcozaplan">/in/marcozaplan</a></li>
   <li><span class="k">GitHub</span> <a href="https://github.com/marcozaplan">@marcozaplan</a></li>
   <li><span class="k">Based in</span> Manila, Philippines</li>
 </ul>
 
 <hr class="strata" aria-hidden="true">
+<<<<<<< HEAD
 
 <h2>Want a form instead?</h2>
 
@@ -37,3 +42,5 @@ free endpoint, then drop this in place of the list above.</p>
   <button type="submit">Send message</button>
 </form>
 ```
+=======
+>>>>>>> 57353701dcc997b64cbcd6450ab08b6d4f90481a

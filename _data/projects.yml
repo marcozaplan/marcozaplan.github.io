@@ -27,7 +27,11 @@
   tags: extractives geospatial monitoring
   link: ""
 
+<<<<<<< HEAD
 - title: Tool on Trade Gap Analysis
+=======
+- title: Tool on Trade Gap Analysis (TOTGA) Project
+>>>>>>> 57353701dcc997b64cbcd6450ab08b6d4f90481a
   org: Independent
   role: Methodology and build
   year: 2025
