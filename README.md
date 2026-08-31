@@ -2,7 +2,6 @@
 
 Live at https://marcozaplan.github.io/
 
-<<<<<<< HEAD
 Personal site for Marco Zaplan. Jekyll on GitHub Pages.
 
 ## Editing
@@ -27,6 +26,3 @@ bundle install
 bundle exec jekyll serve --livereload
 # http://127.0.0.1:4000
 ```
-=======
-Personal site of Marco Zaplan. Jekyll on GitHub Pages.
->>>>>>> 57353701dcc997b64cbcd6450ab08b6d4f90481a
