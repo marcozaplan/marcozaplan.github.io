@@ -4,19 +4,11 @@ description: >-
   Independent consulting and research on natural resource governance,
   open data, and public financial management.
 author: Marco Zaplan
-<<<<<<< HEAD
 email: hello@example.com
-=======
-email: marcozaplan@gmail.com
->>>>>>> 57353701dcc997b64cbcd6450ab08b6d4f90481a
 
-# Repo is marcozaplan/marcozaplan.github.io, a user site, so it serves at
-# the domain root and baseurl stays empty. Only change baseurl if you move
-# this into a project repo (then it becomes "/that-repo-name").
 url: "https://marcozaplan.github.io"
 baseurl: ""
 
-# Where you exist elsewhere. Delete any you don't want shown.
 links:
   - name: Email
     url: "mailto:hello@example.com"
@@ -24,8 +16,6 @@ links:
     url: "https://www.linkedin.com/in/marcozaplan"
   - name: GitHub
     url: "https://github.com/marcozaplan"
-  # - name: Google Scholar
-  #   url: "PASTE YOUR SCHOLAR PROFILE URL"
 
 permalink: /blog/:year/:month/:title/
 markdown: kramdown
