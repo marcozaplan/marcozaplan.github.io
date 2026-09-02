@@ -8,7 +8,7 @@
   year: 2026
   summary: >-
 
-  tags: affective-polarization philippines elections quantitative survey-methodology
+  tags: affective-polarization philippines elections quantitative survey
   link: ""
 
 - title: "From Transparency, Accountability, and Responsiveness to Trust: What are significant predictors of perceived levels of trust in the Department of Budget and Management among public administration students of the Marinduque State College?"
@@ -17,7 +17,7 @@
   year: 2024
   summary: >-
  
-  tags: trust government youth philippines quantitative
+  tags: trust government youth philippines quantitative survey
   link: ""
 
 - title: "Trust and Voting Behavior Among Students: A Cross-Sectional Study on the Relationship Between Trust in Government and Likelihood to Vote Among Select UP Diliman Students"
@@ -26,7 +26,7 @@
   year: 2025
   summary: >-
 
-  tags: trust elections youth demography philippines quantitative
+  tags: trust elections youth demography philippines quantitative survey
   link: ""
 
 - title: "Mapping of Just Transition supporting policies in Southeast Asia"
@@ -98,7 +98,7 @@
   year: 2023
   summary: >-
       
-  tags: energy-transition philippines quantitative qualitative mixed-methods
+  tags: energy-transition philippines quantitative qualitative mixed-methods survey
   link: ""
 
 - title: "Expanding the Ripple Effect: On the need to further increase the impact of EITI"
@@ -116,7 +116,7 @@
   year: 2024
   summary: >-
       
-  tags: civic-space eiti philippines quantitative qualitative mixed-methods
+  tags: civic-space eiti philippines quantitative qualitative mixed-methods survey
   link: ""
 
 - title: "Eneryg Transition Minerals: Paving the Path to a Just Energy Transition in the Philippines"
@@ -126,4 +126,13 @@
   summary: >-
       
   tags: civic-space critical-minerals philippines quantitative policy-analysis
+  link: ""
+
+- title: "Does language has an effect on  economic behaviour? Evidence from Future-Orientation"
+  institution: University of the Philippines Diliman
+  type: Thesis
+  year: 2015
+  summary: >-
+      
+  tags: economics linguistics quantitative survey
   link: ""
