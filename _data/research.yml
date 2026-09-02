@@ -2,44 +2,57 @@
 # status: Published | Working paper | Preprint | In progress
 # Tags drive the filter on /research/.
 
-- title: "Green, Pink, and Red: affective polarization in the Philippines"
-  venue: MSc dissertation, London School of Economics
-  status: Working paper
+- title: "Green, Pink, and Red: Measuring and Analyzing Affective Polarization in the Philippines"
+  institution: MSc dissertation, London School of Economics and Political Science
+  type: Capstone project
   year: 2026
   summary: >-
-    Measures affective polarization across Philippine political factions
-    using a spread-of-scores dependent variable, multilevel regression with
-    poststratification, and LASSO-selected covariates. Accompanied by an
-    interactive dashboard and a public explainer.
-  tags: polarization philippines methods
+    Affective polarisation or the tendency for voters to dislike and distrust
+    opposing political groups has steadily increased around the world.
+    The current literature has largely focused on Western democracies with
+    institutionalized political party systems. The Philippines presents a
+    unique case with its large democracy, ethnolinguistically diverse population,
+    weakly-institutionalized political party system, and personality-based politics.
+    Guided by the social identity theory, this study measured and investigated how
+    affective polarisation is operationalized in such context and to what extent does
+    attachment to one’s ethnolinguistic identity relate to it using nonrandom survey data (n=249)
+    and the three major political camps (Duterte, Marcos, and Robredo) as the unit of analyses.
+    Robredo supporters were among the most affectively polarized relative to the other camps.
+    It found that significant levels of affective polarization can emerge in this context and
+    is largely structured by the strength of camp identification and not one’s ethnolinguistic
+    identity. While levels of affective polarization are substantial, this relationship
+    does not extend to social distancing behavior. This study offers a validated and robust
+    quantitative measure and analysis of how affective polarization operates in
+    a personality-based political system and fills in the geographic, methodological,
+    and theoretical gaps in the literature.
+  tags: polarization philippines elections data
   link: ""
 
-- title: Barangay-level migration in Surigao del Norte
-  venue: Preprint
-  status: Preprint
-  year: 2026
+- title: "FROM TRANSPARENCY, ACCOUNTABILITY, AND RESPONSIVENESS TO TRUST: What are significant predictors of perceived levels of trust in the Department of Budget and Management among public administration students of the Marinduque State College?"
+  institution: Ateneo de Manila University
+  type: Capstone project
+  year: 2024
   summary: >-
-    Fine-grained estimates of internal migration at the smallest Philippine
-    administrative unit, and what they imply for local population projection.
-  tags: demography philippines
+    Trust is very important in governance. Over the last twelve years, the government has
+    instituted various good governance initiatives to help build trust in our public institutions.
+    Trust in government, however, has not improved. This Governance Innovation Report (GIR) conducted
+    a quantitative study among public administration students from the Marinduque State College to
+    investigate the relationship between perceived levels of transparency, accountability, and
+    responsiveness and perceived levels of trust toward the Department of Budget Management (DBM).
+    Results showed that all three pillars of good governance are significant predictors of overall
+    trust in the DBM with perceived responsiveness having the highest coefficient
+    followed by perceived accountability and transparency.
+  tags: trust government youth philippines
   link: ""
 
-- title: Book review
-  venue: Philippine Journal of Public Administration
-  status: Published
-  year: 2026
+- title: "TRUST AND VOTING BEHAVIOR AMONG STUDENTS (TVBS) A Cross-Sectional Study on the Relationship Between Trust in Government and Likelihood to Vote Among Select UP Diliman Students"
+  institution: University of the Philippines Diliman
+  type: Research project
+  year: 2025
   summary: >-
-    Review essay on governance and administrative reform.
-  tags: governance philippines
-  link: ""
+     The study aimed to investigate the relationship between trust in government and likelihood to vote.
+     After running multiple tests and analyses, the study found several findings on the predictors of likelihood
+     to vote and their relationship with trust and other demographic variables.
 
-- title: Subnational democracy indexing
-  venue: Ongoing
-  status: In progress
-  year: 2026
-  summary: >-
-    Constructing a comparative measure of democratic quality at the
-    provincial and municipal level, oriented toward the 2028 Philippine
-    electoral cycle.
-  tags: democracy philippines methods
+  tags: trust elections youth demography philippines
   link: ""
