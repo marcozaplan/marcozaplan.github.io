@@ -25,10 +25,10 @@
     quantitative measure and analysis of how affective polarization operates in
     a personality-based political system and fills in the geographic, methodological,
     and theoretical gaps in the literature.
-  tags: polarization philippines elections data
+  tags: affective-polarization philippines elections quantitative survey-methodology
   link: ""
 
-- title: "FROM TRANSPARENCY, ACCOUNTABILITY, AND RESPONSIVENESS TO TRUST: What are significant predictors of perceived levels of trust in the Department of Budget and Management among public administration students of the Marinduque State College?"
+- title: "From Transparency, Accountability, and Responsiveness to Trust: What are significant predictors of perceived levels of trust in the Department of Budget and Management among public administration students of the Marinduque State College?"
   institution: Ateneo de Manila University
   type: Capstone project
   year: 2024
@@ -42,10 +42,10 @@
     Results showed that all three pillars of good governance are significant predictors of overall
     trust in the DBM with perceived responsiveness having the highest coefficient
     followed by perceived accountability and transparency.
-  tags: trust government youth philippines
+  tags: trust government youth philippines quantitative
   link: ""
 
-- title: "TRUST AND VOTING BEHAVIOR AMONG STUDENTS (TVBS) A Cross-Sectional Study on the Relationship Between Trust in Government and Likelihood to Vote Among Select UP Diliman Students"
+- title: "Trust and Voting Behavior Among Students: A Cross-Sectional Study on the Relationship Between Trust in Government and Likelihood to Vote Among Select UP Diliman Students"
   institution: University of the Philippines Diliman
   type: Research project
   year: 2025
@@ -54,5 +54,68 @@
      After running multiple tests and analyses, the study found several findings on the predictors of likelihood
      to vote and their relationship with trust and other demographic variables.
 
-  tags: trust elections youth demography philippines
+  tags: trust elections youth demography philippines quantitative
+  link: ""
+
+- title: "Mapping of Just Transition supporting policies in Southeast Asia"
+  institution: Oxfam Pilipinas
+  type: Report
+  year: 2025
+  summary: >-
+     This study systematically maps and assesses how just transition (JT) principles are reflected
+     in energy transition policies across four Southeast Asian countries: Indonesia, the Philippines,
+     Thailand, and Malaysia. The research focuses on identifying how justice-related concepts—such as
+     equity, inclusion, and environmental rehabilitation—are embedded in national policy frameworks,
+     even when the term “just transition” is not explicitly used. The study covers a wide range of
+     policy instruments, including more strategic plans/goals/guidelines, formal regulatory acts/laws
+     and dedicated financing schemes, and evaluates their ambition and coherence.
+
+  tags: energy policy-analysis southeast-asia philippines qualitative
+  link: "https://oxfam.org.ph/download/mapping-of-just-transition-supporting-policies-in-southeast-asia/"
+
+  - title: "Just Transition in Southeast Asia: Advancing People-centered and Equitable Transformation in the Agriculture and Transportation Sector"
+  institution: Oxfam Pilipinas
+  type: Report
+  year: 2024
+  summary: >-
+     Southeast Asia is a significant emitter of greenhouse gases (GHGs), necessitating a shift towards sustainable and less carbon-intensive
+     practices to combat climate change. The region faces formidable challenges in transitioning economies away from fossil fuels while
+     promoting economic development and reducing emissions. Our recent research outlines existing gaps and challenges in transitioning
+     away from carbon-intensive agricultural and transport practices. A fast, just, and transformative transition strategy is
+     imperative to ensure that the transition does not exacerbate existing inequities and environmental issues.
+  
+  tags: energy policy-analysis southeast-asia philippines qualitative indonesia 
+  link: "https://oxfam.org.ph/download/mapping-of-just-transition-supporting-policies-in-southeast-asia/"
+
+  - title: "Energy Transition Minerals Governance and Mining Revenue Management in Cebu and Palawan in the Philippines"
+  institution: USAID, Gov Data Initiative
+  type: Report
+  year: 2024
+  summary: >-
+     This scoping study aimed to provide an overview of mining operations in Cebu and Palawan including relevant legal frameworks, mining revenue
+     management systems and practices at the national and local level, and stakeholder views on mining issues. The scoping study summarized key issues
+     related to disclosure mechanisms among others and provided policy recommendations to various stakeholders. 
+  tags: critical-minerals revenue-management philippines subnational governance
+  link: ""
+
+  - title: "Caraga Mining Governance Index"
+  institution: USAID
+  type: Report
+  year: 2017
+  summary: >-
+     The Caraga Mining Governance Index (CMGI) is a benchmarking tool aimed at measuring the quality of resource governance among mining provinces
+     in the Philippines. The CMGI has three components mainly: (1) Local Impact Monitoring; (2) Mining Benefit Management; (3), and Local Governance.
+     These components are designed to measure a province’s effectiveness in governing mineral extraction from licensing, monitoring impacts,
+     to maximizing the localities’ benefits from mining. Each component will have subcomponents as described in the next sections.
+     Scores will be generated to identify strengths and opportunities for policy reforms. 
+  tags: critical-minerals revenue-management philippines subnational governance
+  link: ""
+
+  - title: "Beneficial Ownership Pilot Reporting (5th Philippine EITI Country Report)"
+  institution: Department of Finance
+  type: Report
+  year: 2019
+  summary: >-
+      
+  tags: philippines eiti beneficial-ownership data
   link: ""
