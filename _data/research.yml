@@ -58,7 +58,7 @@
   link: ""
 
 - title: "Mapping of Just Transition supporting policies in Southeast Asia"
-  institution: Oxfam Pilipinas
+  institution: Oxfam Pilipinas-Tara Foundation
   type: Report
   year: 2025
   summary: >-
@@ -73,7 +73,7 @@
   tags: energy policy-analysis southeast-asia philippines qualitative
   link: "https://oxfam.org.ph/download/mapping-of-just-transition-supporting-policies-in-southeast-asia/"
 
-  - title: "Just Transition in Southeast Asia: Advancing People-centered and Equitable Transformation in the Agriculture and Transportation Sector"
+- title: "Just Transition in Southeast Asia: Advancing People-centered and Equitable Transformation in the Agriculture and Transportation Sector"
   institution: Oxfam Pilipinas
   type: Report
   year: 2024
@@ -87,18 +87,18 @@
   tags: energy policy-analysis southeast-asia philippines qualitative indonesia 
   link: "https://oxfam.org.ph/download/mapping-of-just-transition-supporting-policies-in-southeast-asia/"
 
-  - title: "Energy Transition Minerals Governance and Mining Revenue Management in Cebu and Palawan in the Philippines"
-  institution: USAID, Gov Data Initiative
+- title: "Energy Transition Minerals Governance and Mining Revenue Management in Cebu and Palawan in the Philippines"
+  institution: USAID-Gov Data Initiative
   type: Report
   year: 2024
   summary: >-
      This scoping study aimed to provide an overview of mining operations in Cebu and Palawan including relevant legal frameworks, mining revenue
      management systems and practices at the national and local level, and stakeholder views on mining issues. The scoping study summarized key issues
      related to disclosure mechanisms among others and provided policy recommendations to various stakeholders. 
-  tags: critical-minerals revenue-management philippines subnational governance
+  tags: critical-minerals revenue-management philippines subnational-governance policy-analysis
   link: ""
 
-  - title: "Caraga Mining Governance Index"
+- title: "Caraga Mining Governance Index"
   institution: USAID
   type: Report
   year: 2017
@@ -111,11 +111,65 @@
   tags: critical-minerals revenue-management philippines subnational governance
   link: ""
 
-  - title: "Beneficial Ownership Pilot Reporting (5th Philippine EITI Country Report)"
+- title: "Beneficial Ownership Pilot Reporting (5th Philippine EITI Country Report)"
   institution: Department of Finance
   type: Report
   year: 2019
   summary: >-
       
-  tags: philippines eiti beneficial-ownership data
+  tags: philippines eiti beneficial-ownership data policy-analysis
+  link: ""
+
+- title: "Just Coal Transition Platform Analytical Paper: Philippines"
+  institution: World Bank-Ecorys
+  type: Report
+  year: 2023
+  summary: >-
+      
+  tags: philippines energy-transition policy-analysis
+  link: ""
+
+- title: "Energy Profile and Finance in Asia"
+  institution: Asian People's Movement on Debt and Development
+  type: Report
+  year: 2020
+  summary: >-
+      
+  tags: energy-transition asia quantitative
+  link: ""
+
+- title: "i-JET Philippines Project Scoping and Baseline Study"
+  institution: Oxfam Pilipinas
+  type: Report
+  year: 2023
+  summary: >-
+      
+  tags: energy-transition philippines quantitative qualitative mixed-methods
+  link: ""
+
+- title: "Expanding the Ripple Effect: On the need to further increase the impact of EITI"
+  institution: Bantay Kita
+  type: Report
+  year: 2018
+  summary: >-
+      
+  tags: critical-minerals eiti philippines quantitative
+  link: ""
+
+- title: "Breaking barriers, empowering communities: A report on the state of civic space in natural resource governance in the Philippines
+  institution: Bantay Kita
+  type: Report
+  year: 2024
+  summary: >-
+      
+  tags: civic-space eiti philippines quantitative qualitative mixed-methods
+  link: ""
+
+- title: "Eneryg Transition Minerals: Paving the Path to a Just Energy Transition in the Philippines"
+  institution: Legal Rights and Natural Resources Center
+  type: Report
+  year: 2024
+  summary: >-
+      
+  tags: civic-space critical-minerals philippines quantitative policy-analysis
   link: ""
