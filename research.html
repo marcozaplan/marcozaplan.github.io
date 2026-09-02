@@ -40,7 +40,7 @@ description: Papers, preprints, and ongoing research on political demography, ex
     {%- for r in outputs -%}
     <li class="record"
         data-tags="{{ r.tags }}"
-        data-text="{{ r.title }} {{ r.venue }} {{ r.status }} {{ r.summary }} {{ r.tags }} {{ r.year }}">
+        data-text="{{ r.title }} {{ r.institution }} {{ r.type }} {{ r.summary }} {{ r.tags }} {{ r.year }}">
       <div class="record-year">{{ r.year }}</div>
       <div>
         <h2 class="record-title">
