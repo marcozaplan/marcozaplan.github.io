@@ -50,7 +50,7 @@ description: Papers, preprints, and ongoing research on political demography, ex
             {{ r.title }}
           {%- endif -%}
         </h2>
-        <p class="record-org">{{ r.status }} — {{ r.venue }}</p>
+        <p class="record-org">{{ r.type }} — {{ r.institution }}</p>
         <p class="record-summary">{{ r.summary }}</p>
         <p class="record-tags">
           {%- assign rtags = r.tags | split: " " -%}
