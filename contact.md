@@ -13,7 +13,7 @@ you're trying to answer, what data already exists, and your timeline.
 
 <ul class="contact-list">
   <li><span class="k">Email</span> <span>marcozaplan@gmail.com</span></li>
-  <li><span class="k">LinkedIn</span> <a href="https://www.linkedin.com/in/marcozaplan" target="_blank" rel="noopener">linkedin.com/in/marcozaplan</a></li>
+  <li><span class="k">LinkedIn</span> <a href="https://www.linkedin.com/in/marco-zaplan-69212583/" target="_blank" rel="noopener">linkedin.com/in/marcozaplan</a></li>
   <li><span class="k">GitHub</span> <a href="https://github.com/marcozaplan" target="_blank" rel="noopener">github.com/marcozaplan</a></li>
   <li><span class="k">Based in</span> Manila, Philippines</li>
 </ul>
