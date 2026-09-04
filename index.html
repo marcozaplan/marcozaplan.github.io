@@ -19,7 +19,7 @@ description: Critical minerals, just energy transition, and open data consultant
   Hi, I'm Marco. I'm an economist, public policy analyst, demographer, and data scientist
   working in the public and development sector. I work at the intersection of
   critical minerals, just energy transition, public financial management,
-  and open data.  My approach is to always focus on simplicity, systems,
+  and open data. My approach is to always focus on simplicity, systems,
   and sustainability. I work with governments, multilaterals, and nonprofits to
   unlock the potential of data in various applications. I help them by analyzing
   and visualizing data using innovative tools to inform policy reforms,
@@ -28,30 +28,22 @@ description: Critical minerals, just energy transition, and open data consultant
 
 <hr class="strata" aria-hidden="true">
 
-<h2>What I take on</h2>
+<h2>Recent work</h2>
 
-<dl class="practice">
-  <div>
-    <dt>Resource governance</dt>
-    <dd>Beneficial ownership, contract transparency, systematic disclosure, and revenue transparency. Technical assistance to governments and civil society on extractive industries governance.</dd>
-  </div>
-  <div>
-    <dt>Data infrastructure</dt>
-    <dd>Interactive dashboards, databooks, geospatial databases, and data visualization. Building tools and products that make extractives and governance data accessible and usable.</dd>
-  </div>
-  <div>
-    <dt>Public financial management</dt>
-    <dd>Fiscal analysis, revenue projection from extractives, and financial modeling. Technical assistance on public finance reform and policy development.</dd>
-  </div>
-  <div>
-    <dt>Applied research</dt>
-    <dd>Policy research and analysis on just energy transition, critical minerals, and open data. Baseline studies, scoping studies, and advocacy strategy across Southeast Asia and the Philippines. Quantitative and qualitative research using R, Python, SPSS, and Stata.</dd>
-  </div>
-  <div>
-    <dt>Policy and advocacy</dt>
-    <dd>Writing policy briefers, developing advocacy strategies, facilitating multi-stakeholder consultations, and delivering capacity-building sessions for governments and civil society.</dd>
-  </div>
-</dl>
+<ul class="entries">
+  {%- assign recent = site.data.projects | sort: "year" | reverse | slice: 0, 3 -%}
+  {%- for p in recent -%}
+  <li class="entry">
+    <div class="entry-date">{{ p.year }}</div>
+    <div>
+      <p class="entry-title">{{ p.title }}</p>
+      <p class="entry-excerpt">{{ p.org }}</p>
+    </div>
+  </li>
+  {%- endfor -%}
+</ul>
+
+<p style="margin-top:1.25rem"><a href="{{ '/portfolio/' | relative_url }}">See the full portfolio</a></p>
 
 <hr class="strata" aria-hidden="true">
 
@@ -75,8 +67,6 @@ description: Critical minerals, just energy transition, and open data consultant
 
 <hr class="strata" aria-hidden="true">
 
-<hr class="strata" aria-hidden="true">
-
 <h2>Features &amp; press</h2>
 
 <ul class="entries">
@@ -96,20 +86,3 @@ description: Critical minerals, just energy transition, and open data consultant
   </li>
   {%- endfor -%}
 </ul>
-
-<h2>Recent work</h2>
-
-<ul class="entries">
-  {%- assign recent = site.data.projects | sort: "year" | reverse | slice: 0, 3 -%}
-  {%- for p in recent -%}
-  <li class="entry">
-    <div class="entry-date">{{ p.year }}</div>
-    <div>
-      <p class="entry-title">{{ p.title }}</p>
-      <p class="entry-excerpt">{{ p.org }}</p>
-    </div>
-  </li>
-  {%- endfor -%}
-</ul>
-
-<p style="margin-top:1.25rem"><a href="{{ '/portfolio/' | relative_url }}">See the full portfolio</a></p>
