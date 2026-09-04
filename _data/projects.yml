@@ -1,13 +1,13 @@
 # ── ASIAN DEVELOPMENT BANK ───────────────────────────────────────────
 
-- title: Clean energy transition knowledge products and regional workshops
+- title: Clean energy transition — program coordination and knowledge products
   org: Asian Development Bank
   role: Program Coordinator
   year: 2025
   summary: >-
-    Supported preparation of project knowledge products and coordinated
-    national and regional workshops under ADB's regional energy transition
-    programming, June 2024 to October 2025.
+    Supports the preparation of project knowledge products and coordinating
+    national and regional workshops. Assists in organizing capacity-building
+    activities and provides project management support to regional conferences.
   tags: just-transition capacity-building southeast-asia governance
   link: ""
 
@@ -16,9 +16,10 @@
   role: Technical Consultant
   year: 2023
   summary: >-
-    Provided technical assistance including research, liaison with national
-    government agencies, and organisation of high-level technical meetings
-    for ADB's clean energy transition project in Southeast Asia.
+    Provided technical assistance to the Accelerating the Clean Energy
+    Transition in Southeast Asia project which included conducting research,
+    liaising with various national government agencies, and organizing
+    high-level technical meetings.
   tags: just-transition research southeast-asia policy
   link: ""
 
@@ -27,9 +28,9 @@
   role: Data Analyst
   year: 2021
   summary: >-
-    Collected, cleaned, and organised geospatial data for a spatial
-    computable general equilibrium study on the North-South Commuter Rail
-    project in the Philippines.
+    Collected, cleaned, and organized geospatial data for the 'Spatial
+    computable general equilibrium (SCGE) study on the North-South Commuter
+    Rail (NSCR) project'.
   tags: geospatial public-finance research philippines
   link: ""
 
@@ -38,46 +39,53 @@
   role: Technical Resource Person
   year: 2018
   summary: >-
-    Provided technical assistance to strengthen government and civil society
-    cooperation under the Papua New Guinea Open Government Partnership to
-    improve public services.
+    Provided technical assistance in Strengthening Government and Civil Society
+    Cooperation in the Papua New Guinea Open Government Partnership (PNG-OGP)
+    to Improve Public Services.
   tags: governance open-data capacity-building pacific
   link: ""
 
 # ── GOV DATA INITIATIVE ──────────────────────────────────────────────
 
-- title: PREDIC Tool — Projecting Revenues from the Extractives
+- title: PREDIC Tool — Projecting Revenues from the Extractives for Development and Investment in Communities
   org: Gov Data Initiative / USAID
-  role: Executive Director and Research Lead
+  role: Executive Director and Research, Data, and Policy Lead
   year: 2025
   summary: >-
-    Led strategic direction and technical development of the PREDIC Tool,
-    a revenue projection instrument for extractive industries supported by
-    USAID, alongside policy development and data management.
+    Provides strategic direction and oversight in the organization's technical
+    initiatives including on research, policy development, and data management
+    particularly on the Project Projecting Revenues from the Extractives for
+    the Development and Investment in Communities (PREDIC) Tool supported by
+    the USAID. Concurrently serving as Co-Chair of the Implementation Working
+    Group of the Open Data Charter.
   tags: extractives public-finance open-data philippines
   link: ""
 
 # ── OXFAM PILIPINAS ──────────────────────────────────────────────────
 
-- title: Just transitions beyond the power sector — research and advocacy strategy
-  org: Oxfam Pilipinas
-  role: Research and Advocacy Strategy Consultant
-  year: 2023
-  summary: >-
-    Mapped existing studies on just transitions beyond the power sector,
-    identified policy gaps, analysed integration of feminist just energy
-    transition values, and developed an advocacy strategy plan.
-  tags: just-transition research policy southeast-asia
-  link: ""
-
-- title: I-JET PH scoping and baseline study
+- title: Research and advocacy strategy on just transitions in Southeast Asia
   org: Oxfam Pilipinas
   role: Consultant
   year: 2023
   summary: >-
-    Established a baseline for measuring progress across the I-JET PH
-    project lifecycle, gathering data from project focus areas in the
-    Philippines using multiple data collection methodologies.
+    Conducted comprehensive research to map existing studies on just
+    transitions beyond the power sector and identified gaps in aligning just
+    transition values with current sectoral policies and goals. Analyzed the
+    integration of feminist just energy transition values in policies for the
+    mentioned sub-sectors and developed an advocacy strategy plan based on
+    research findings.
+  tags: just-transition research policy southeast-asia
+  link: ""
+
+- title: Influencing JET PH scoping and baseline study
+  org: Oxfam Pilipinas
+  role: Consultant
+  year: 2023
+  summary: >-
+    Conducted a study designed to establish a baseline for measuring progress
+    throughout the life cycle of the I-JET PH project. The study gathered a
+    wide range of data from the project focus and areas in the Philippines
+    using several data collection methodologies.
   tags: just-transition research philippines
   link: ""
 
@@ -88,35 +96,38 @@
   role: Technical Consultant
   year: 2025
   summary: >-
-    Conducted policy research and analysis on just transition frameworks
-    across Southeast Asia, mapping and assessing national policies, engaging
-    stakeholders through consultations and validation workshops, and
-    producing country profiles and analytical reports.
+    Conduct policy research and analysis on Just Transition frameworks,
+    focusing on mapping, screening, and assessing national policies in
+    Southeast Asia. Engage stakeholders through consultations and validation
+    workshops, synthesizing insights into structured country profiles and
+    analytical reports. Lead data mapping efforts, applying policy assessment
+    frameworks to evaluate their impact on energy transition.
   tags: just-transition policy research southeast-asia
   link: ""
 
-- title: Just Coal Transition Platform — Philippines
+- title: Philippine Local Expert — Just Coal Transition Platform
   org: ECORYS / UNOPS / World Bank
   role: Philippine Local Expert
   year: 2024
   summary: >-
-    Provided advisory and coordination for the Philippines component of the
-    Just Coal Transition Platform, engaging stakeholders, conducting desk
-    research, and facilitating peer dialogues on just coal transition
-    initiatives.
+    Provided advisory and coordination for the Philippines, engaging relevant
+    stakeholders, and conducting desk research, facilitating peer dialogues,
+    and contributing insights on just coal transition initiatives for the
+    UNOPS and World Bank's Just Coal Transition Platform.
   tags: just-transition governance capacity-building philippines
   link: ""
 
 # ── BANTAY KITA / PWYP PHILIPPINES ──────────────────────────────────
 
-- title: Civic space in mining governance — Philippines report
+- title: Civic space in mining governance — Philippines
   org: Bantay Kita — Publish What You Pay Philippines
-  role: Consultant and writer
+  role: Civic Space Report Consultant and Writer
   year: 2023
   summary: >-
-    Designed the research methodology, analysed quantitative and qualitative
-    data, and wrote the analysis and policy recommendations assessing the
-    state of civic space in mining governance in the Philippines.
+    Developed the research design of the report including methodologies which
+    aimed to assess the current situation of civic space in mining governance
+    in the Philippines. Analyzed the quantitative and qualitative data and
+    wrote the analysis and policy recommendations of the report.
   tags: extractives governance research philippines
   link: ""
 
@@ -127,42 +138,43 @@
   role: Research Consultant
   year: 2023
   summary: >-
-    Conducted a scoping study on the energy transition minerals value chain
-    in the Philippines and their economic, social, and environmental impact
-    on communities.
+    Conducted a scoping study on energy transition minerals value chain in
+    the Philippines and their economic, social, and environmental impact to
+    communities.
   tags: extractives just-transition research philippines
   link: ""
 
-# ── PUBLISH WHAT YOU PAY (INTERNATIONAL) ────────────────────────────
+# ── PUBLISH WHAT YOU PAY ─────────────────────────────────────────────
 
 - title: Energy transition minerals databooks — Africa
   org: Publish What You Pay
   role: Research Consultant
   year: 2023
   summary: >-
-    Developed databooks and graphics on energy transition mineral production,
-    reserves, trade, and value-addition in mineral-rich countries in Africa.
+    Developed databooks and graphics on energy transition minerals production
+    and reserves, trade, and value-addition in mineral rich countries in
+    Africa.
   tags: extractives data-viz open-data africa
   link: ""
 
 - title: EITI Supporting Company compliance scorecard dashboard
   org: Publish What You Pay
-  role: Data Consultant
+  role: Data Consultant to the Secretariat
   year: 2021
   summary: >-
     Developed an interactive dashboard and social media card generator using
-    the EITI Supporting Company compliance scorecard to visualise and
-    communicate governance practices of supporting companies.
+    the EITI Supporting Company compliance scorecard to visualize and
+    communicate the governance practice of supporting companies.
   tags: extractives data-viz open-data governance
   link: ""
 
-- title: Australian mining governance dashboard
+- title: Australian mining companies governance dashboard
   org: Publish What You Pay Australia
   role: Data Consultant
   year: 2020
   summary: >-
-    Built an interactive dashboard on governance practices and policies of
-    Australian mining, oil, and gas companies using data from stock market
+    Developed an interactive dashboard on governance practices and policies
+    of Australian mining, oil, and gas companies using data from stock market
     disclosures.
   tags: extractives data-viz governance open-data
   link: ""
@@ -172,8 +184,8 @@
   role: Data Consultant
   year: 2021
   summary: >-
-    Delivered capacity-building sessions to civil society organisations on
-    using data to inform public debate on resource extraction in Lebanon.
+    Delivered capacity-building sessions to civil society organizations on
+    the use of data to inform public debate on resource extraction.
   tags: extractives capacity-building open-data governance
   link: ""
 
@@ -184,10 +196,11 @@
   role: Research and Data Consultant
   year: 2021
   summary: >-
-    Collected, cleaned, analysed, and applied financial and geospatial data
-    on energy profiles and fossil fuel finance across Asia Pacific countries.
-    Produced country briefers, interactive dashboards and maps, and online
-    databases.
+    Collected, cleaned, analyzed, and applied financial data and geospatial
+    data related to energy profile and fossil fuel finance related to
+    countries in the Asia Pacific region. Developed IEC materials using
+    energy profile and fossil fuel finance data including but not limited to
+    country briefers, interactive dashboards and maps, and online databases.
   tags: just-transition geospatial data-viz research
   link: ""
 
@@ -198,20 +211,21 @@
   role: Research and Data Consultant
   year: 2021
   summary: >-
-    Oversaw planning and production of content using NRGI's platforms
-    including the 2021 Resource Governance Index, and helped design and
-    implement learning modules on accessing, analysing, and applying
-    extractive data.
+    Oversee planning and production of compelling content using NRGI's
+    various platforms including the 2021 Resource Governance Index. Helped
+    design and implement learning modules to build capacities around
+    accessing, analyzing, and applying extractive data.
   tags: extractives governance open-data capacity-building
   link: ""
 
 - title: Data visualisation style guide
   org: Natural Resource Governance Institute
-  role: Data Visualisation Consultant
+  role: Data Visualisation Style Guide Consultant
   year: 2023
   summary: >-
-    Developed a comprehensive guidebook for NRGI staff on data visualisation
-    techniques aligned with the organisation's branding guidelines.
+    Developed a comprehensive guidebook for NRGI staff on how to effectively
+    use data visualization techniques while aligning with the organization's
+    branding guidelines.
   tags: data-viz open-data capacity-building
   link: ""
 
@@ -222,9 +236,13 @@
   role: Technical Policy Specialist
   year: 2019
   summary: >-
-    Spearheaded work on beneficial ownership, contract transparency, and
-    systematic disclosure. Managed the Research and Policy Reforms Program
-    and Country Report Publication Program to increase public understanding
-    of natural resource management and fiscal policy.
+    Spearheaded work on policy priorities including beneficial ownership,
+    contract transparency, and systematic disclosure. Managed the Research
+    and Policy Reforms Program and Country Report Publication Program aimed
+    at increasing public understanding of the management of natural
+    resources, fiscal policies, and public accessibility of data. Provided
+    technical inputs to the implementation of the Philippine Extractive
+    Industries Transparency Initiative and publication of the Fourth Country
+    Report.
   tags: extractives governance open-data policy philippines
   link: ""
