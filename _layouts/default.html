@@ -24,7 +24,7 @@
 
       <nav aria-label="Sections">
         <ul class="nav">
-          {%- assign pages = "/,Home|/about/,About|/portfolio/,Portfolio|/research/,Research|/blog/,Writing|/contact/,Contact" | split: "|" -%}
+          {%- assign pages = "/,Home|/about/,About|/portfolio/,Portfolio|/research/,Research|/blog/,Blog|/contact/,Contact" | split: "|" -%}
           {%- for item in pages -%}
             {%- assign bits = item | split: "," -%}
             {%- assign href = bits[0] -%}
