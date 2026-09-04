@@ -75,6 +75,28 @@ description: Critical minerals, just energy transition, and open data consultant
 
 <hr class="strata" aria-hidden="true">
 
+<hr class="strata" aria-hidden="true">
+
+<h2>Features &amp; press</h2>
+
+<ul class="entries">
+  {%- assign features = site.data.features | sort: "date" | reverse -%}
+  {%- for f in features -%}
+  <li class="entry">
+    <div class="entry-date">{{ f.date | date: "%Y" }}</div>
+    <div>
+      <p class="entry-title">
+        <a href="{{ f.link }}" target="_blank" rel="noopener">{{ f.title }}</a>
+      </p>
+      <p class="entry-excerpt">{{ f.source }} &middot; {{ f.type }}</p>
+      {%- if f.summary and f.summary != "" -%}
+      <p class="entry-excerpt">{{ f.summary }}</p>
+      {%- endif -%}
+    </div>
+  </li>
+  {%- endfor -%}
+</ul>
+
 <h2>Recent work</h2>
 
 <ul class="entries">

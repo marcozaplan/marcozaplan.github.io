@@ -1,0 +1,27 @@
+# External features, mentions, co-authored pieces, and awards.
+# type: feature | co-author | award | interview | media
+
+- title: "FOI Dataquest: First place winner"
+  source: Presidential Communications Office
+  date: 2024-01-01
+  type: award
+  summary: >-
+    Named first place in the FOI Dataquest competition for data-driven
+    use of Freedom of Information requests.
+  link: "https://PASTE-LINK-HERE"
+
+- title: "Open data and extractives governance in the Philippines"
+  source: EITI
+  date: 2023-06-01
+  type: feature
+  summary: >-
+    Featured in an EITI blog on open data practice and licensing
+    transparency in the Philippines.
+  link: "https://PASTE-LINK-HERE"
+
+- title: "Title of co-authored piece"
+  source: Publication name
+  date: 2023-01-01
+  type: co-author
+  summary: ""
+  link: "https://PASTE-LINK-HERE"
