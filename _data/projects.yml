@@ -1,71 +1,230 @@
-# The portfolio database. One entry per project.
-# Fields: title, org, role, year, summary, tags (lowercase, space-free), link (optional)
-# Tags drive the filter buttons on /portfolio/ — keep them consistent.
-# Everything below is seeded from your own record. Edit freely; delete what
-# you'd rather not publish.
+# ── ASIAN DEVELOPMENT BANK ───────────────────────────────────────────
 
-- title: Mining licensing across seven countries
-  org: Natural Resource Governance Institute
-  role: Lead analyst
-  year: 2026
-  summary: >-
-    Comparative analysis of mining licence award data, testing whether
-    licensing decisions cluster around election periods. Includes a
-    machine-readable data dictionary and Frictionless schema for a
-    licence-tracking database, with validation tooling.
-  tags: extractives data-infrastructure governance
-  link: ""
-
-- title: Real-time mining activity nowcaster, Rio Tuba
-  org: Independent
-  role: Researcher and developer
-  year: 2026
-  summary: >-
-    Satellite nighttime-lights pipeline (VIIRS) that estimates mining
-    activity at a single Palawan site at near-real-time cadence — the first
-    monitor of its kind in Southeast Asia.
-  tags: extractives geospatial monitoring
-  link: ""
-
-- title: Tool on Trade Gap Analysis
-  org: Independent
-  role: Methodology and build
+- title: Clean energy transition knowledge products and regional workshops
+  org: Asian Development Bank
+  role: Program Coordinator
   year: 2025
   summary: >-
-    Mirror-trade methodology and tooling for detecting misinvoicing in
-    critical mineral exports, comparing partner-country customs records to
-    surface value gaps.
-  tags: extractives public-finance methodology
+    Supported preparation of project knowledge products and coordinated
+    national and regional workshops under ADB's regional energy transition
+    programming, June 2024 to October 2025.
+  tags: just-transition capacity-building southeast-asia governance
   link: ""
 
-- title: Provincial economic influence index
-  org: Independent
-  role: Principal investigator
-  year: 2025
-  summary: >-
-    A spatial-economic index for Philippine provinces combining nighttime
-    lights with fiscal and demographic data to measure economic weight
-    below the national level.
-  tags: geospatial public-finance philippines
-  link: ""
-
-- title: EITI contracts transparency portal
-  org: Extractives sector programme
-  role: Data lead
+- title: Accelerating the Clean Energy Transition in Southeast Asia
+  org: Asian Development Bank
+  role: Technical Consultant
   year: 2023
   summary: >-
-    Design and delivery of a public contracts portal for extractive
-    industries disclosure, covering data modelling, publication workflow,
-    and user-facing search.
-  tags: extractives open-data governance
+    Provided technical assistance including research, liaison with national
+    government agencies, and organisation of high-level technical meetings
+    for ADB's clean energy transition project in Southeast Asia.
+  tags: just-transition research southeast-asia policy
   link: ""
 
-- title: Public financial management advisory
+- title: Spatial CGE study on the North-South Commuter Rail
   org: Asian Development Bank
-  role: Consultant
-  year: 2022
+  role: Data Analyst
+  year: 2021
   summary: >-
-    Diagnostic and advisory work on public financial management systems,
-    contributing to country-level reform programming.
-  tags: public-finance governance
+    Collected, cleaned, and organised geospatial data for a spatial
+    computable general equilibrium study on the North-South Commuter Rail
+    project in the Philippines.
+  tags: geospatial public-finance research philippines
+  link: ""
+
+- title: PNG Open Government Partnership capacity building
+  org: Asian Development Bank
+  role: Technical Resource Person
+  year: 2018
+  summary: >-
+    Provided technical assistance to strengthen government and civil society
+    cooperation under the Papua New Guinea Open Government Partnership to
+    improve public services.
+  tags: governance open-data capacity-building pacific
+  link: ""
+
+# ── GOV DATA INITIATIVE ──────────────────────────────────────────────
+
+- title: PREDIC Tool — Projecting Revenues from the Extractives
+  org: Gov Data Initiative / USAID
+  role: Executive Director and Research Lead
+  year: 2025
+  summary: >-
+    Led strategic direction and technical development of the PREDIC Tool,
+    a revenue projection instrument for extractive industries supported by
+    USAID, alongside policy development and data management.
+  tags: extractives public-finance open-data philippines
+  link: ""
+
+# ── OXFAM PILIPINAS ──────────────────────────────────────────────────
+
+- title: Just transitions beyond the power sector — research and advocacy strategy
+  org: Oxfam Pilipinas
+  role: Research and Advocacy Strategy Consultant
+  year: 2023
+  summary: >-
+    Mapped existing studies on just transitions beyond the power sector,
+    identified policy gaps, analysed integration of feminist just energy
+    transition values, and developed an advocacy strategy plan.
+  tags: just-transition research policy southeast-asia
+  link: ""
+
+- title: I-JET PH scoping and baseline study
+  org: Oxfam Pilipinas
+  role: Consultant
+  year: 2023
+  summary: >-
+    Established a baseline for measuring progress across the I-JET PH
+    project lifecycle, gathering data from project focus areas in the
+    Philippines using multiple data collection methodologies.
+  tags: just-transition research philippines
+  link: ""
+
+# ── ECORYS ───────────────────────────────────────────────────────────
+
+- title: Mapping of just transition policies in Southeast Asia
+  org: ECORYS / Tara Foundation
+  role: Technical Consultant
+  year: 2025
+  summary: >-
+    Conducted policy research and analysis on just transition frameworks
+    across Southeast Asia, mapping and assessing national policies, engaging
+    stakeholders through consultations and validation workshops, and
+    producing country profiles and analytical reports.
+  tags: just-transition policy research southeast-asia
+  link: ""
+
+- title: Just Coal Transition Platform — Philippines
+  org: ECORYS / UNOPS / World Bank
+  role: Philippine Local Expert
+  year: 2024
+  summary: >-
+    Provided advisory and coordination for the Philippines component of the
+    Just Coal Transition Platform, engaging stakeholders, conducting desk
+    research, and facilitating peer dialogues on just coal transition
+    initiatives.
+  tags: just-transition governance capacity-building philippines
+  link: ""
+
+# ── BANTAY KITA / PWYP PHILIPPINES ──────────────────────────────────
+
+- title: Civic space in mining governance — Philippines report
+  org: Bantay Kita — Publish What You Pay Philippines
+  role: Consultant and writer
+  year: 2023
+  summary: >-
+    Designed the research methodology, analysed quantitative and qualitative
+    data, and wrote the analysis and policy recommendations assessing the
+    state of civic space in mining governance in the Philippines.
+  tags: extractives governance research philippines
+  link: ""
+
+# ── LEGAL RIGHTS & NATURAL RESOURCES CENTER ─────────────────────────
+
+- title: Energy transition minerals value chain scoping study
+  org: Legal Rights and Natural Resources Center
+  role: Research Consultant
+  year: 2023
+  summary: >-
+    Conducted a scoping study on the energy transition minerals value chain
+    in the Philippines and their economic, social, and environmental impact
+    on communities.
+  tags: extractives just-transition research philippines
+  link: ""
+
+# ── PUBLISH WHAT YOU PAY (INTERNATIONAL) ────────────────────────────
+
+- title: Energy transition minerals databooks — Africa
+  org: Publish What You Pay
+  role: Research Consultant
+  year: 2023
+  summary: >-
+    Developed databooks and graphics on energy transition mineral production,
+    reserves, trade, and value-addition in mineral-rich countries in Africa.
+  tags: extractives data-viz open-data africa
+  link: ""
+
+- title: EITI Supporting Company compliance scorecard dashboard
+  org: Publish What You Pay
+  role: Data Consultant
+  year: 2021
+  summary: >-
+    Developed an interactive dashboard and social media card generator using
+    the EITI Supporting Company compliance scorecard to visualise and
+    communicate governance practices of supporting companies.
+  tags: extractives data-viz open-data governance
+  link: ""
+
+- title: Australian mining governance dashboard
+  org: Publish What You Pay Australia
+  role: Data Consultant
+  year: 2020
+  summary: >-
+    Built an interactive dashboard on governance practices and policies of
+    Australian mining, oil, and gas companies using data from stock market
+    disclosures.
+  tags: extractives data-viz governance open-data
+  link: ""
+
+- title: Capacity building on extractives data — Lebanon
+  org: Publish What You Pay
+  role: Data Consultant
+  year: 2021
+  summary: >-
+    Delivered capacity-building sessions to civil society organisations on
+    using data to inform public debate on resource extraction in Lebanon.
+  tags: extractives capacity-building open-data governance
+  link: ""
+
+# ── ASIAN PEOPLES' MOVEMENT ON DEBT AND DEVELOPMENT ─────────────────
+
+- title: Energy profile and fossil fuel finance — Asia Pacific
+  org: Asian Peoples' Movement on Debt and Development
+  role: Research and Data Consultant
+  year: 2021
+  summary: >-
+    Collected, cleaned, analysed, and applied financial and geospatial data
+    on energy profiles and fossil fuel finance across Asia Pacific countries.
+    Produced country briefers, interactive dashboards and maps, and online
+    databases.
+  tags: just-transition geospatial data-viz research
+  link: ""
+
+# ── NATURAL RESOURCE GOVERNANCE INSTITUTE ───────────────────────────
+
+- title: Resource Governance Index 2021 — content and communications
+  org: Natural Resource Governance Institute
+  role: Research and Data Consultant
+  year: 2021
+  summary: >-
+    Oversaw planning and production of content using NRGI's platforms
+    including the 2021 Resource Governance Index, and helped design and
+    implement learning modules on accessing, analysing, and applying
+    extractive data.
+  tags: extractives governance open-data capacity-building
+  link: ""
+
+- title: Data visualisation style guide
+  org: Natural Resource Governance Institute
+  role: Data Visualisation Consultant
+  year: 2023
+  summary: >-
+    Developed a comprehensive guidebook for NRGI staff on data visualisation
+    techniques aligned with the organisation's branding guidelines.
+  tags: data-viz open-data capacity-building
+  link: ""
+
+# ── DEPARTMENT OF FINANCE / PH-EITI ─────────────────────────────────
+
+- title: Philippine EITI — beneficial ownership, contracts, and systematic disclosure
+  org: Department of Finance — Philippine Extractive Industries Transparency Initiative
+  role: Technical Policy Specialist
+  year: 2019
+  summary: >-
+    Spearheaded work on beneficial ownership, contract transparency, and
+    systematic disclosure. Managed the Research and Policy Reforms Program
+    and Country Report Publication Program to increase public understanding
+    of natural resource management and fiscal policy.
+  tags: extractives governance open-data policy philippines
   link: ""
