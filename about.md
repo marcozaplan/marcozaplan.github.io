@@ -20,15 +20,15 @@ I’m based in the world’s most densely populated city in the world Manila, Ph
 
 <dl class="practice">
   <div>
-    <dt>Master of Science, 2026</dt>
+    <dt>Master of Science</dt>
     <dd>Applied Social Data Science, London School of Economics and Political Science. Chevening Scholar.</dd>
   </div>
   <div>
-    <dt>Master, in progress</dt>
-    <dd>Population Studies, University of the Philippines Population Institute. Core coursework complete.</dd>
+    <dt>Master</dt>
+    <dd>Population Studies, University of the Philippines Population Institute. In progress.</dd>
   </div>
   <div>
-    <dt>Master, in progress</dt>
+    <dt>Master</dt>
     <dd>Public Management, Ateneo de Manila University.</dd>
   </div>
   <div>
@@ -41,27 +41,19 @@ I’m based in the world’s most densely populated city in the world Manila, Ph
 
 <dl class="practice">
   <div>
-    <dt>Analysis</dt>
-    <dd>Causal inference, regression and multilevel modelling, MRP, survey weighting, spatial and geospatial analysis, remote sensing.</dd>
+    <dt>Data analysis and visualization</dt>
+    <dd>R, Python, SPSS, Stata, Tableau Desktop, Google Sheets, MS Office, Canva, Infogram, GitHub.</dd>
   </div>
   <div>
-    <dt>Tools</dt>
-    <dd>R, Python, SQL, Quarto, Streamlit, Git, ArcGIS and open geospatial stacks.</dd>
+    <dt>Quantitative and analytical</dt>
+    <dd>Financial modeling, interpreting data and policy reports, analyzing fiscal indicators, problem-solving, project and event management.</dd>
   </div>
   <div>
-    <dt>Data standards</dt>
-    <dd>Frictionless Data, EITI and Open Contracting standards, schema and data-dictionary design, validation pipelines.</dd>
+    <dt>Stakeholder engagement</dt>
+    <dd>Multistakeholder convening, technical consultations, workshop design and facilitation, training and capacity building.</dd>
   </div>
   <div>
-    <dt>Domain</dt>
-    <dd>Extractives governance, open data policy, public financial management, political demography.</dd>
-  </div>
-  <div>
-    <dt>Practice</dt>
-    <dd>Technical assistance to governments, multi-stakeholder facilitation, data storytelling for non-specialist audiences.</dd>
+    <dt>Communication</dt>
+    <dd>Writing policy briefers, presenting and facilitating meetings, public speaking.</dd>
   </div>
 </dl>
-
-## Elsewhere
-
-I co-chair the Open Data Charter Implementation Working Group.
