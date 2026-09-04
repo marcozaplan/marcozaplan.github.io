@@ -471,14 +471,14 @@ hr.strata {
 .hero-img {
   display: block;
   width: 100%;
-  height: 420px;
-  object-fit: cover;
-  object-position: center top;
+  
+  
+  
   background: var(--paper-sun); /* placeholder colour while loading */
 }
 
 @media (min-width: 60rem) {
-  .hero-img { height: 520px; }
+  .hero-img { height: auto; }
 }
 
 /* --- Logo grid --------------------------------------------- */
@@ -535,12 +535,12 @@ hr.strata {
 .hero-img {
   display: block;
   width: 100%;
-  height: 420px;
-  object-fit: cover;
-  object-position: center top;
+  
+  
+  
   background: #eceeea;
 }
-@media (min-width: 60rem) { .hero-img { height: 520px; } }
+@media (min-width: 60rem) { .hero-img { height: auto; } }
 
 /* --- Logo grid --- */
 .logo-grid {
