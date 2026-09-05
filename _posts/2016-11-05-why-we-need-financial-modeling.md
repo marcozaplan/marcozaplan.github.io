@@ -1,5 +1,5 @@
 ---
-title: Why we need relevant data
+title: Why we need financial modeling
 date: 2016-11-05
 description: Prices of oil and minerals can go really high. A country may benefit given the right fiscal regime. 
 tags: [extractives, open data, financial modeling]

@@ -1,6 +1,6 @@
 ---
-title: Why we need relevant data
-date: 2016-07-12
+title: Have Westerosis benefited from their natural resources?
+date: 2017-08-17
 description: Gold, silver, iron, and copper in Westeros has been exploited for centuries yet extraction only benefited a few great houses and their lords and ladies.
 tags: [extractives, open data]
 ---

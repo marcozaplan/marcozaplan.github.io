@@ -1,5 +1,5 @@
 ---
-title: Why we need relevant data
+title: 5+ tools every data extractor needs to know
 date: 2016-10-28
 description: Asking why we need to use data is like asking why we fall in love or breathe.
 tags: [extractives, open data]

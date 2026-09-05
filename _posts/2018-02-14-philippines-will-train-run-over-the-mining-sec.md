@@ -1,24 +1,35 @@
 ---
-title: Why we need relevant data
-date: 2016-07-12
-description: Data can be simply numbers for some while for others it can mean either having livelihood projects or none at all.
-tags: [extractives, open data]
+title: Philippines: will TRAIN run over the mining sector?
+date: 2018-02-14
+description: In his July 2017 State of the Nation Address, Philippines President Rodrigo Duterte said he would tax miners to “death.”
+tags: [extractives, fiscal regime]
 ---
 
-Data can be simply numbers for some while for others it can mean either having livelihood projects or none at all. Asserting one's right does not come from thin air. It starts with knowing what is due to you. This may sound simple if not trivial to the privileged but not for the marginalized. Transparency changes.
+In his July 2017 State of the Nation Address, Philippines President Rodrigo Duterte said he would tax miners to “death.” In December 2017, he signed Republic Act 10963--Tax Reform for Acceleration and Inclusion (TRAIN)—the first of six packages of a comprehensive program. TRAIN took effect on 1 January.
 
-Today, we are soft launching Bantay Kita's data portal called DATA Portal which stands for Demanding Action, Transparency, and Accountability alongside an open data workshop for CSOs and extractives affected community members. The idea of a data portal started in Jakarta, Indonesia last November 2015. I thought: when we talk about mining affected communities, do we really know who the communities are? This sparked the idea of having a portal solely for communities and by communities.
+Under the new tax system, mining companies that extract metallic or non-metallic minerals are now subject to a 4 percent excise tax on the value of their production—double the previous rate. This excise tax is equivalent to what most countries would label a “royalty” on mineral production. What does this 100 percent increase mean for the sector?
 
-What does a portal for communities mean? It means that the target users are ultimately the communities and infomediaries that engage with them. Infomediaries may include grassroots NGOs, local academic institutions, and other advocacy organizations. There is a conscious effort to centralize extractives data and information that are specific to certain affected communities hence the extractives project-level, provincial, and regional data.
+National and local impacts of higher excise tax on minerals
 
-What about a data portal by communities? The DATA Portal is intended to make sure that extractives data disclosed and made available in the portal is not only specific to certain communities but also relevant. There are data that speaks to communities but if you ask them if these data are relevant them, they would probably say no to some. This is where our data user template comes in. We ask our workshop participants five simple yet important information:
+Agata Mining Ventures (which operates in Agusan del Norte) paid 50,206,025 Philippine pesos (approximately USD 1 million) in excise taxes in 2016, according to the Fourth Philippine Extractive Industries Transparency Initiative (PH-EITI) Report. Assuming production and the price of the iron ore/nickel product it exports remain similar through 2018, it would then pay twice that amount to the government this year. Local government units (LGUs) hosting the Agata project are entitled to 40 percent of excise taxes, as is the case for all other LGUs. Under the new law and using the same assumption as above, Agata’s host LGUs could see their share from excise tax increase from an estimated PHP 20,082,410 (USD 390,000) to PHP 40,164,820 (USD 780,000).
 
-1. Advocacy
-2. Target Audience or Decision-maker
-3. Information that decision maker needs to know
-4. Intended outcome from decision-maker
-5. Data needed
+The company’s feasibility study forecasts the a 10-year mine life for the Agata project. Assuming the average price of production according to the latest company’s consolidated financial statements, USD USD 18.6 USD per wet metric tonne, is the average price of production for those 10 years, the project would be paying about PHP 371 million (USD 7.2 million) in excise taxes under the new regime, instead of PHP 186 million (USD 3.6 million) before TRAIN.
 
-These inputs will then create our inventory of extractives data needs for specific communities. Data made available to the public can be overwhelming but given the right targeting and presentation, data can be meaningful as well. They only need to be relevant (and less intimidating!). 
+The impact would be even more significant on larger projects, such as the King-king copper-gold project in the Compostela Valley province. Using assumptions from the 2013 preliminary feasibility study with updated gold, silver and copper prices, doubling the excise taxes could mean doubling the expected collection of excise payments from the company over the 22-year life of the project, from PHP 15.5 billion to PHP 31 billion (USD 300 to 600 million). Forty percent, or an estimated PHP 12.4 billion, would go to LGUs while the remaining PHP 18.6 billion would go to the national coffers.
 
-We have a very long way to go to reach our objective of having a data portal for and by communities given the enormous challenges. But I'm sure we will get there. Today marks my DATA Portal Journey. I'm so excited. ​
+In our simulations, both Agata and King-king would still be profitable to investors after considering the additional excise tax payments. But some marginal mining projects may be forced to close.
+
+No mine is spared from the new tax hike. According to the fourth PH-EITI report (which covered 88 percent of total mineral production in the country), the Bureau of Internal Revenue (BIR) collected PHP 1.4 billion (USD 27 million) in excise taxes on minerals in 2016. Assuming production volumes and prices in 2018 are similar to 2016 figures, BIR should see collections of at least PHP 2.8 billion (USD 54 million) from excise taxes on minerals.
+
+Provided the transfer of LGU shares from excise tax on minerals is sufficient and timely, the impact will be the biggest for host LGUs. However, because excise taxes are deductible expenses, companies would declare smaller profits and pay less income tax. Income tax is typically more evenly shared among the population and other jurisdictions via the government’s national budget. As a result, the net impact of higher excise taxes on the Philippines treasury should be positive, but more so for resource-rich than resource-poor regions.
+
+**More to come?**
+The doubling of excise taxes on minerals may just be the tip of the iceberg for mining companies.
+
+There are pending bills filed in both the Senate and House of Representatives that plan to impose 5 percent mineral royalties on all mining operations on top of the excise tax on minerals and other taxes paid by mining companies. Under the current policy, only companies operating in government-declared mineral reservations pay the 5 percent mineral royalties. In the PH-EITI report, only eight companies had reconciled payments for fiscal year 2016 that amounted to PHP 839 million (USD 16 million). If all companies were subject to the 5 percent royalty on the value of their production, the same base as the excise tax on minerals, the government could collect an estimated PHP 3.9 billion (USD 76 million).
+
+The Department of Finance is planning to introduce additional changes in the mining fiscal regime in the final tax reform package, possibly imposing additional royalties and other fees. PH-EITI Focal Person and Assistant Secretary Maria Teresa S. Habitan in a press conference said the department will push through with its studies to propose a new mining fiscal regime.
+
+As the Department of Finance studies new or increased taxes for the mining sector, it might consider some general principles from Precept 4 of the Natural Resource Charter.
+
+Increasing excise taxes or royalties is a practical way of quickly increasing revenue collection, especially for local governments. It also makes marginal mineral deposits too expensive to exploit, and therefore slows down intensive mineral extraction. Pacing extraction could give the government leeway to progressively strengthen its rules and institutions. But if the goal of the government is to capture a greater share of mining revenues without restricting investment, the DoF should consider instead scrapping unnecessary incentives (like income tax holidays) and introducing more progressive taxes (such as resource-rent or windfall profit taxes that would only apply to highly profitable mines).
