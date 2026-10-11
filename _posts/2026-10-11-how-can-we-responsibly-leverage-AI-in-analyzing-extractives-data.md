@@ -46,3 +46,43 @@ Also worth highlighting is the risk of AI giving wrong and/or biased answers whi
 **Moving forward**
 
 As we use AI more and more with EITI data, I hope that we as a community go back to basics and make sure our EITI data is of high quality and in open formats. Lastly, that we adapt governance principles that ensure AI is used responsibly.
+
+<style>
+.lightbox-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.92);
+  z-index: 1000;
+  cursor: zoom-out;
+  align-items: center;
+  justify-content: center;
+}
+.lightbox-overlay.active { display: flex; }
+.lightbox-overlay img {
+  max-width: 90vw;
+  max-height: 90vh;
+  object-fit: contain;
+  box-shadow: 0 0 40px rgba(0,0,0,0.5);
+}
+</style>
+
+<div class="lightbox-overlay" id="lightbox">
+  <img id="lightbox-img" src="" alt="">
+</div>
+
+<script>
+const lb = document.getElementById('lightbox');
+const lbImg = document.getElementById('lightbox-img');
+document.querySelectorAll('.gallery img').forEach(img => {
+  img.addEventListener('click', () => {
+    lbImg.src = img.src;
+    lbImg.alt = img.alt;
+    lb.classList.add('active');
+  });
+});
+lb.addEventListener('click', () => lb.classList.remove('active'));
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') lb.classList.remove('active');
+});
+</script>
