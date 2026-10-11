@@ -19,6 +19,14 @@ This is where AI can come in which promises to make parts of our data work more 
 
 So as an experiment, I developed a tool called Extractive Industries Data Analyst or EIDAn for short which is essentially an AI-powered dashboard that allows us to generate summary reports and ask follow-up questions about our data. 
 
+<div class="gallery">
+  <img src="/assets/images/blog/eidan-revenue1.png" alt="EIDAn Revenue Explorer">
+  <img src="/assets/images/blog/eidan-validation1.png" alt="EIDAn Validation Explorer">
+  <img src="/assets/images/blog/eidan-aireport.png" alt="EIDAn AI summary report generator">
+  <img src="/assets/images/blog/eidan-aidata.png" alt="EIDAn statistics supplied to the model">
+  <img src="/assets/images/blog/eidan-followup.png" alt="EIDAn follow up question to the summary report">
+</div>
+
 EIDAn currently has two pages which are the Revenue Explorer and the Validation Explorer. It allows the user to filter by country, company, government agency, revenue stream, and years. It also has data visualizations. A user can ask it to generate an AI summary report of the current dataset in multiple languages. It takes about 10-15 seconds to generate a single report and costs around 5 cents USD. A user can then ask a follow-up question, like which reforms should the MSG prioritize, and it gives a short response which costs about one US cent. The tool also gives a glimpse of the statistics used by the model to generate its report. This is to make sure that the answers are traceable.
 
 A user could just upload their dataset to tools like ChatGPT and analyze their data from there. But the difference with using EIDAn is the source. ChatGPT and other LLM tools draws on everything it has read and on whatever it finds in the internet. In EIDAn, every number comes straight from the EITI API or data repository. EIDan also has a built-in protocol wherein it explicitly says it does not have enough data to answer a question instead of guessing or hallucinating.
