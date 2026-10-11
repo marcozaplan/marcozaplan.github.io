@@ -1,6 +1,6 @@
 ---
 title: How can we responsibly leverage AI in analyzing extractives data?
-date: 2016-07-12
+date: 2026-10-11
 description: AI use in the extractives is on the rise. How can maximize its use while mitigating the risks?
 tags: [extractives, open data, AI]
 ---
